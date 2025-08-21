@@ -43,6 +43,7 @@ Its mission is to deliver a **predictable and sustainable token** — one that *
 
 - **Etherscan Contract:** [View on Etherscan](https://etherscan.io/token/0xF4f20629399F24d8F5d3Cb49b799Dc3B6128311b)
 - **GitHub Repository:** [Conserv](https://github.com/TakatoBr/CST)
+- **Email:** teamconserv@gmail.com
 
 ---
 
