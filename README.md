@@ -27,7 +27,6 @@ Its mission is to deliver a **predictable and sustainable token** — one that *
 - **Decimals:** 18  
 - **Initial Supply:** 200,000 CST  
 - **Max Supply:** 12,200,000 CST  
-
 ---
 
 ## 🔑 Key Features
@@ -43,7 +42,16 @@ Its mission is to deliver a **predictable and sustainable token** — one that *
 
 - **Etherscan Contract:** [View on Etherscan](https://etherscan.io/token/0xF4f20629399F24d8F5d3Cb49b799Dc3B6128311b)
 - **GitHub Repository:** [Conserv](https://github.com/TakatoBr/CST)
-- **Email:** teamconserv@gmail.com
+
+---
+
+## 🎁 Community Airdrop  
+
+To celebrate the launch, we are offering **1,000 CST for free** to early supporters.  
+
+📩  **Contact Conserv Team with your wallet address** → teamconserv@gmail.com 
+
+⚠️ *Available only until the initial supply is distributed.*  
 
 ---
 
